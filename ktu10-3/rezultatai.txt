@@ -1,0 +1,7 @@
+Vaikinai išleido:
+28,00 20,60 25,07 
+Dienos išlaidų vidurkis:
+2,80 2,06 2,51 
+Vaikinams liko pinigų:
+Simui 72,00; Linui 84,40; Mantui 94,93;
+Dienų skaičius, kai vaikinai išleido daugiau už savo dienos vidurkį: 13
